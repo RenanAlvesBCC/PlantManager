@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "plantManager",
-    "slug": "plantManager",
+    "name": "plant-manager",
+    "slug": "plant-manager",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
