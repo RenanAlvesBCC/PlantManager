@@ -1,8 +1,8 @@
 # PlantManager
 
-## Este projeto foi criado e utilizado para fins de atualizar e ampliar conhecimento de react-native. 
+### Projeto criado e utilizado para fins de estudos. 
   
-##  O projeto utilizou as seguintes tecnologias: 
+##  Tecnologias utilizadas: 
   
   - React-Native;
   - Expo
